@@ -1,0 +1,39 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: yellow;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand h1 {
+
+}
+.navbar-brand a:hover, navbar-brand a:focus {
+	text-decoration: none;
+}
+.navbar-brand p {
+
+}
+.navbar-brand p span {
+	vertical-align: middle;
+}
+
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list a {
+	color: #951c49;
+	text-align: center;
+}
+#nav-list a:hover {
+	background: #e7e7e7;
+}
+#nav-list a span {
+	font-size: 1.8em;
+}
