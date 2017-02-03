@@ -37,3 +37,19 @@ body {
 #nav-list a span {
 	font-size: 1.8em;
 }
+
+#navbrand {
+	text-align: center;
+}
+
+#d2 {
+	background-color: gray;
+	padding: 15px 25px 15px 25px;
+	margin: 15px 25px 15px 25px;
+}
+
+@media (max-width: 767) {
+	#main-content {
+		padding:15px 15px 15px 15px;
+	}
+}
